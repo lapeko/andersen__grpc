@@ -1,1 +1,4 @@
 .idea
+vendor
+greet.pb.go
+greet_grpc.pb.go
